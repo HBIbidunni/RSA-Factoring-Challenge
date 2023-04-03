@@ -19,7 +19,9 @@ This Challenge involves an attempt to generate and factorize large enough prime 
 
 ## Steps taken to generate the Public and Private Keys in RSA
 
-* To encrypt a message using RSA encryption, the sender first converts the message into a numerical representation, typically by using the ASCII or Unicode codes for the characters. The sender then applies the public key to the numerical representation of the message to obtain an encrypted message. To decrypt the encrypted message, the recipient applies the private key to the encrypted message
+i) To encrypt a message using RSA encryption, the sender first converts the message into a numerical representation, typically by using the ASCII or Unicode codes for the characters. 
+
+ii) Then,the sender then applies the public key to the numerical representation of the message to obtain an encrypted message. To decrypt the encrypted message, the recipient applies the private key to the encrypted message
 
 ## The Security of the RSA and Prime Factorization
 
@@ -28,4 +30,4 @@ This Challenge involves an attempt to generate and factorize large enough prime 
 * The security of RSA encryption is based on the assumption that no efficient algorithm exists for factoring large composite numbers
 * It is important to note that the security of the RSA encryption is not absolute due to advances in computing power and new algorithms
 
----> It is highly evident, `Prime Factorization` is an important component of `RSA encryption`
+<b>----></b> It is highly evident, `Prime Factorization` is an important component of `RSA encryption`
