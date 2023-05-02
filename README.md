@@ -4,7 +4,7 @@
 This Challenge involves an attempt to generate and factorize large enough prime numbers sniffed from an unsecured network as fast as possible before the target fixes this bug on their server. This is crucial in order to be able to decode the encrypted documents the target has.
 
 
-<b>Clock_ticking ~ Time is of essence here!</b>
+ :clock12: ~ <b>Time is of essence here!</b>
 
 
 ## More Information on RSA and Prime Factorization
